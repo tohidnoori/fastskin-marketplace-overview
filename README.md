@@ -452,71 +452,20 @@ Screenshots of the production platform can be added below to demonstrate the dif
 
 ### Homepage
 
-Add a screenshot of the FastSkin homepage here.
-
-```text
-![FastSkin Homepage](screenshots/homepage.png)
-```
+![FastSkin Homepage](main-page.jpg)
 
 ### CS2 Marketplace
 
-Add a screenshot of the CS2 marketplace.
 
-```text
-![CS2 Marketplace](screenshots/cs2-marketplace.png)
-```
-
-### Item Details
-
-Add a screenshot showing an individual item and its market information.
-
-```text
-![Item Details](screenshots/item-details.png)
-```
-
-### Market Analytics
-
-Add a screenshot of the market-analysis interface.
-
-```text
-![Market Analytics](screenshots/market-analytics.png)
-```
-
-### TF2 Marketplace
-
-Add a screenshot of the TF2 marketplace.
-
-```text
-![TF2 Marketplace](screenshots/tf2-marketplace.png)
-```
-
----
-
-## User Features
+![CS2 Marketplace](marketplace.jpg)
 
 ### User Profile
 
-```text
-![User Profile](screenshots/user-profile.png)
-```
+![User Profile](userprofile.jpg)
 
 ### Wallet
 
-```text
-![Wallet](screenshots/wallet.png)
-```
-
-### Referral System
-
-```text
-![Referral System](screenshots/referral.png)
-```
-
-### Lottery
-
-```text
-![Lottery](screenshots/lottery.png)
-```
+![Wallet](wallet.jpg)
 
 ---
 
@@ -527,37 +476,7 @@ Add a screenshot of the TF2 marketplace.
 Add a screenshot of the main administration dashboard.
 
 ```text
-![Admin Dashboard](screenshots/admin-dashboard.png)
-```
-
-### User Management
-
-```text
-![User Management](screenshots/admin-users.png)
-```
-
-### Item Management
-
-```text
-![Item Management](screenshots/admin-items.png)
-```
-
-### Orders & Transactions
-
-```text
-![Orders and Transactions](screenshots/admin-orders.png)
-```
-
-### Market Analytics
-
-```text
-![Admin Market Analytics](screenshots/admin-market-analytics.png)
-```
-
-### Blog Management
-
-```text
-![Blog Management](screenshots/admin-blog.png)
+![Admin Dashboard](screenshots/admin-panel.jpg)
 ```
 
 ---
