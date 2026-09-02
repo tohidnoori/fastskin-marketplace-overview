@@ -469,15 +469,9 @@ Screenshots of the production platform can be added below to demonstrate the dif
 
 ---
 
-## Admin Panel
-
 ### Admin Dashboard
 
-Add a screenshot of the main administration dashboard.
-
-```text
-![Admin Dashboard](screenshots/admin-panel.jpg)
-```
+![Admin Dashboard](admin-panel.jpg)
 
 ---
 
